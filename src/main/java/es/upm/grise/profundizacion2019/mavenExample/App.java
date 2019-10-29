@@ -1,8 +1,7 @@
 package es.upm.grise.profundizacion2019.mavenExample;
 
 /**
- * Hello world!
-   blablabla
+123456
  */
 public class App 
 {
