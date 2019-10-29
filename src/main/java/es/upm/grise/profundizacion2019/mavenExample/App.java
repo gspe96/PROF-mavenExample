@@ -2,7 +2,7 @@ package es.upm.grise.profundizacion2019.mavenExample;
 
 /**
  * Hello world!
- * abcdef
+abcdef
  */
 public class App 
 {
