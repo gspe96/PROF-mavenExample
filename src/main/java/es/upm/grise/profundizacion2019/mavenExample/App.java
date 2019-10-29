@@ -2,7 +2,7 @@ package es.upm.grise.profundizacion2019.mavenExample;
 
 /**
  * Hello world!
- * Hola Buenas Tardes
+ * Testeado el 29/10/2019
  */
 public class App 
 {
